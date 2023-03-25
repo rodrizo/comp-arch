@@ -16,6 +16,7 @@
   };
 
 
+
 void setup() {
   // inicializar todos los pines del 2 al 12 como salidas
   for (int i = 2; i <= 12; i++) {

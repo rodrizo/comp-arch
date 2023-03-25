@@ -21,6 +21,7 @@ void loop() {
     {1, 1, 1, 1, 0, 1, 1}   //9
   };
 
+
   // ciclo para mostrar cada dígito del display
   for (int i = 0; i < 10; i++) {
     // encender o apagar los segmentos del display según la variable segmentos
